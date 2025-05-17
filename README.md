@@ -2,7 +2,7 @@
 
 # I am Nazia Karim Khan Oishee
 
-- 🔭 I’m currently working as Trainee at Brainstation 23 PLC.
+- 🔭 I’m currently working at Brainstation 23 PLC.
 
 
 ## Connect with me via:
